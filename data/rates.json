@@ -1,0 +1,15 @@
+{
+  "base": "USD",
+  "as_of": "2026-10-01",
+  "note": "Static demo rates: units of each currency per 1 USD. Not live market data.",
+  "rates": {
+    "USD": 1,
+    "EUR": 0.92,
+    "GBP": 0.79,
+    "INR": 83.25,
+    "JPY": 149.5,
+    "AED": 3.6725,
+    "THB": 35.8,
+    "KWD": 0.307
+  }
+}

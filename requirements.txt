@@ -1,0 +1,3 @@
+fastapi>=0.110
+uvicorn>=0.29
+argon2-cffi>=23.1
